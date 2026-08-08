@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Asieh
 
-<!--
-**asiehjazayeri/AsiehJazayeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Power BI & Data Analytics
 
-Here are some ideas to get you started:
+I build interactive dashboards and data analytics solutions that transform business data into clear, actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+**Business Intelligence**
+
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Dashboard Design
+
+**Data & Analytics**
+
+* SQL
+* Excel
+* Python
+* Data Visualization
+* Business Analysis
+
+**Performance & Development**
+
+* DAX Studio
+* Bravo for Power BI
+* Tabular Editor
+* Git & GitHub
+
+---
+
+## 📊 Featured Project
+
+### 🌿 Plants Sales Analytics Dashboard
+
+An interactive Power BI dashboard for a Canadian plants and trees retail business.
+
+**Highlights:**
+
+* Executive KPI Dashboard
+* Sales & Geographic Analysis
+* Product & Customer Insights
+* Dynamic DAX-driven Business Insights
+* Time Intelligence
+* Root Cause Analysis
+* Performance Optimization
+
+**Technologies:** Power BI · DAX · Power Query · SQL · Data Modeling
+
+[View Project →](https://github.com/asiehjazayeri/plants_sales_powerbi_dashboard)
+
+---
+
+## 📚 Currently Building
+
+* Power BI & Business Intelligence projects
+* Advanced DAX and data modeling
+* SQL & Python for data analysis
+* Professional data analytics portfolio
+
+---
+
+## 📫 Connect
+
+I'm interested in opportunities involving **Power BI, Data Analytics, Business Intelligence, and Data Visualization**.
